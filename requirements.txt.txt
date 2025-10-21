@@ -1,6 +1,0 @@
-streamlit
-pandas
-sqlite3
-reportlab
-io
-Logistic.py
