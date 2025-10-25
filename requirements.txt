@@ -1,8 +1,0 @@
-streamlit
-pandas
-reportlab
-streamlit-option-menu
-psycopg2-binary
-
-
-
